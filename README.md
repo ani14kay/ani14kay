@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **AI-ML Based Projects or Models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ani14kay](https://github.com/ani14kay)
-
 - 💬 Ask me about **Python, Java, Competitive Coding, DSA & Technological Trends**
 
 - 📫 How to reach me **anisha.katiyar@gmail.com**
