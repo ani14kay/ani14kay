@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI-ML Based Projects or Models**
 
-- 💬 Ask me about **Python, Java, Competitive Coding, DSA & Technological Trends**
+- 💬 Ask me about **Python, Java, DSA, Competitive Coding & Technological Trends**
 
 - 📫 How to reach me **anisha.katiyar@gmail.com**
 
