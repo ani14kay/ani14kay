@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm Anisha!</h1>
-<h3 align="center">Taking One Day at a Time :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani14kay&label=Profile%20views&color=0e75b6&style=flat" alt="ani14kay" /> </p>
 
