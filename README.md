@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anisha.katiyar@gmail.com**
 
-- ⚡ Fun fact **Love to Make Code Dance :)**
+- ⚡ Fun fact **Love to Make Code my Dance :)**
   
 <br>
 <h3 align="left">Connect with me:</h3>
