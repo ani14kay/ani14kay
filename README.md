@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Data Analysis & Machine Learning**
+- 🔭 I’m working on **Data Analysis & Machine Learning**
 
 - 🌱 I’m currently learning **AI & Deep Learning**
 
