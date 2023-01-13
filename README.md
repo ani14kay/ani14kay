@@ -47,4 +47,4 @@
 </p>
 
 <br>
-<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ani14kay&&theme=monokai" height="400px"/></a></p>
+<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ani14kay&&theme=monokai" height="400px"/></a></p>
