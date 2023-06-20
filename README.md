@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Anisha!</h1>
+<h1 align="center">Hey there! 👋 I'm Anikayyy (Anisha :)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani14kay&label=Profile%20views&color=0e75b6&style=flat" alt="ani14kay" /> 
 </p>
@@ -47,4 +47,4 @@
 </p>
 
 <br>
-<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ani14kay&&theme=monokai" height="400px"/></a></p>
+<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ani14kay&&theme=monokai" height="400px"/></a></p>
