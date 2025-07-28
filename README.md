@@ -39,6 +39,7 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<!--
 <h3 align="left">My Stats Analysed:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ani14kay&show_icons=true&locale=en" alt="ani14kay" height ="200px"/> <br>
@@ -48,3 +49,4 @@
 
 <br>
 <p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ani14kay&&theme=monokai" height="400px"/></a></p>
+>
